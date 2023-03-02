@@ -6,11 +6,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/IrfEazy/CelaCelaCogollo">
+  <a href="https://github.com/MarioCela/RASD_DD_eMALL_SE2">
     <img src="Images/EVIcon.png" alt="Icon" width="256">
   </a>
 
-<h3 align="center">CelaCelaCogollo</h3>
+<h3 align="center">RASD&DD of eMALL</h3>
 
   <p align="center">
     RASD&amp;DD Project - Software Engineering 2 2023 - Politecnico di Milano
